@@ -1,4 +1,4 @@
-public class Validador{
+public class Cpf{
 
     String cpf;
 
